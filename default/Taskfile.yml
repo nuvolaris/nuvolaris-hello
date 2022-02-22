@@ -18,5 +18,5 @@
 version: '3'
 
 tasks:
-  setup: npm run install
+  setup: npm  install
  
