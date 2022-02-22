@@ -15,8 +15,7 @@
 # specific language governing permissions and limitations
 # under the License.
 #
-version: '3'
-
-tasks:
-  setup: npm run install
- 
+default/public/build/
+.DS_Store
+.*-version
+.vscode/
