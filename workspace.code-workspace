@@ -18,10 +18,7 @@
 {
 	"folders": [
 		{
-			"path": "client"
-		},
-		{
-			"path": "server"
+			"path": "default"
 		}
 	],
 	"settings": {
